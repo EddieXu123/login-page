@@ -7,7 +7,7 @@ import './App.css';
 
 class App extends Component {
   render() {
-    return (
+    return ( 
       <Router basename="/react-auth-ui/">
         <div className="App">
           {/* TODO: Edit this stuff to make the lefthand pannel cooler */}
