@@ -12,10 +12,10 @@ class App extends Component {
         <div className="App">
           {/* TODO: Edit this stuff to make the lefthand pannel cooler */}
           <div className="App__Aside">
-            <h1>
+            {/* <h1>
               MyMeet
             </h1>
-            <p>We are a group of high school</p>
+            <p>We are a group of high school</p> */}
           </div>
 
 
